@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I'm Jayesh Bharambe
 
-<!--
-**jayesh-bharambe11/jayesh-bharambe11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ratan Tata Maharashtra State Skill University, Pune
+Government University | Maharashtra's First Skill University
+
+Skills
+
+- Java
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+Currently Learning
+
+- Java
+- Data Structures & Algorithms
+- Web Development
+
+About Me
+
+I'm an Information Technology student interested in software development, programming, and building practical projects.
+
+Goals
+
+- Build real-world projects
+- Improve programming and problem-solving skills
+- Learn new technologies
+- Contribute to open-source projects
